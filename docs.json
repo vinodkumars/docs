@@ -35,7 +35,7 @@
           {
             "group":"Net Steps",
             "pages":[
-              "next-steps/step-1.mdx"
+              "next-steps/step-1"
             ]
           }
         ]
