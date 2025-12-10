@@ -9,7 +9,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "versions":[
+      {
+      "version":"1.0.0",
+          "tabs": [
       {
         "tab": "Guides",
         "groups": [
@@ -80,6 +83,8 @@
         }
       ]
     }
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
