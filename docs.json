@@ -108,12 +108,6 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
-          },
-          {
-            "group":"Net Steps",
-            "pages":[
-              "next-steps/step-1"
-            ]
           }
         ]
       },
